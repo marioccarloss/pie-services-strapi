@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_sections_features",
+  "info": {
+    "displayName": "feature"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "string",
+      "required": true
+    },
+    "color": {
+      "type": "string",
+      "required": false
+    }
+  }
+}
